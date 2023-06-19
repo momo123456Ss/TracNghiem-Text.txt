@@ -1,0 +1,318 @@
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+How are you?
+A.Fine
+B.Good
+C.Well
+D.Not Good
+A
+How old are you?
+A.13
+B.14
+C.15
+D.16
+C
+This color is ___.
+A.Red
+B.yellow
+C.Blue
+D.Green
+D
+Have ___ people in here.
+A.4
+B.3
+C.5
+D.1
+B
+What is the name of admin ?
+A.Thien
+B.Duy
+C.Vu
+D.All
+A
+What the dog doing?
+A.Lazy
+B.Smile
+C.Nap
+D.Eat
+C
+What your name?
+A.Thien
+B.Duy
+C.Vu
+D.An
+D
+What is your favour food
+A.Banana
+B.Mango
+C.Apple
+D.Potato
+D
+How much for this?
+A.5$
+B.4$
+C.3$
+D.2$
+B
